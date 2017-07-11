@@ -1,1 +1,1 @@
-# MyCreatedGame-AdventureOfLino-
+自作のWindows向け3DアクションRPGゲームのソースコードとスナップショットを格納しています。
